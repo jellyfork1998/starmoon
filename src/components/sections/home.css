@@ -1,0 +1,12 @@
+#home{
+    background-image: url('../../assets/star.png');
+    background-position: center;
+    background-repeat: repeat;
+}
+
+
+@media screen and (max-width: 450px){
+#home{
+    background-position: left;
+}
+}
