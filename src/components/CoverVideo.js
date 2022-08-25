@@ -13,6 +13,8 @@ img{
     width: 90%;
     height: auto;
     animation: bounce 3s infinite alternate;
+  
+  
 }
 @keyframes bounce { 0% { transform: translateY(0); } 100% { transform: translateY(-50px); } }
 
